@@ -3,28 +3,34 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<table>
+    <tr>
+        <td> <img src="/public/imgs/benoit_clair.jpg" alt="Hey there !"></td>
+        <td> Risk management & Applied mathematics departement @<a href="https://www.edf.fr">EDF</a> <a href="https://goo.gl/maps/Apue8MnHjyj">Lab Paris Saclay</a><br/>
+             Addr : 7bd Gaspard Monge 91120 Palaiseau, France <br/>
+             Tel : +331.78.19.34.17 </br>
+             Mail : firstname.lastname[at]edf.fr
+        </td>
+    <tr/>
+</table>                                          
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Brief 
 
-There are currently two themes built on Poole:
+Since mid 2017 I'm a portoflio management researcher @EDF Lab (Osiris Department). Prior to that I lead several IT projects for the sake of EDF optimisation & trading division. 
+More detailled informations may be found in my resume (last updated June 18) [FR](/public/files/cv_bclair.pdf) / [EN](/public/files/cv_bclair_en.pdf).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The things I write here are my own views and does not engage my employer. 
 
-## Setup
 
-Some fun facts about the setup of this project include:
+## Activities
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+I'm currently focusing on 3 topics : 
+* Electricy prices prevision using a fundamental approach. I aim to model next 5 years the supply and demand equilibriums for the french electricity market 
+* Hydraulic stocks optimization. 
+* Computer science. The above two topics require extensive computations. Therefore i do write a lot of code and try evangelize my fellow researcher to HPC. 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+## Former students 
+* Adrien Leveque; M2 internship, *Dataviz' for a scientific simulation software*
+* [David Nguyen](https://www.linkedin.com/in/ecldavidnguyen/); M1 internship, *Industrialization of a development worflow*
