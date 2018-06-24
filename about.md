@@ -8,7 +8,7 @@ title: About
         <td><img src="/public/imgs/benoit_clair.jpg" alt="Hey there !"></td>
         <td> Risk management & Applied mathematics departement @<a href="https://www.edf.fr">EDF</a> <a href="https://goo.gl/maps/Apue8MnHjyj">Lab Paris Saclay</a><br/>
              Addr : 7bd Gaspard Monge 91120 Palaiseau, France<br/>
-             Tel : +331.78.19.34.17</br>
+             Tel : +331.78.19.34.17<br/>
              Mail : firstname.lastname[at]edf.fr</td>
     <tr/>
 </table>                                          
@@ -16,7 +16,8 @@ title: About
 ## Brief 
 
 Since mid 2017 I'm a portoflio management researcher @EDF Lab (Osiris Department). Prior to that I lead several IT projects for the sake of EDF optimisation & trading division. 
-More detailled informations may be found in my resume (last updated June 18) [FR](/public/files/cv_bclair.pdf) / [EN](/public/files/cv_bclair_en.pdf).
+
+More detailled informations may be found in my resume [FR](/public/files/cv_bclair.pdf) / [EN](/public/files/cv_bclair_en.pdf) (last updated June 18).
 
 
 The things I write here are my own views and does not engage my employer. 
@@ -31,5 +32,5 @@ I'm currently focusing on 3 topics :
 
 
 ## Former students 
-* Adrien Leveque; M2 internship, *Dataviz' for a scientific simulation software*
-* [David Nguyen](https://www.linkedin.com/in/ecldavidnguyen/); M1 internship, *Industrialization of a development worflow*
+* Adrien Leveque; M2 internship (2018), *Dataviz' for a scientific simulation software*
+* [David Nguyen](https://www.linkedin.com/in/ecldavidnguyen/); M1 internship (2016), *Industrialization of a development worflow*
