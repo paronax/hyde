@@ -26,7 +26,7 @@ The things I write here are my own views and does not engage my employer.
 I'm currently focusing on 3 topics : 
 * Electricy prices prevision using a fundamental approach. I aim to model next 5 years supply and demand equilibriums for the french electricity market 
 * Hydraulic stocks optimization. 
-* Computer science. The above two topics require extensive computations. Therefore i do write a lot of code and try evangelize my fellow researcher to HPC. 
+* Computer science. The above two topics require extensive computations. Therefore i do write a lot of code and try evangelize my fellow researchers to HPC. 
 
 
 ## Former students 
