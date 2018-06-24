@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<p >
+<p>
 <table>
     <tr>
         <td><img src="/public/imgs/benoit_clair.jpg" alt="Hey there !"></td>
