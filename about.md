@@ -10,9 +10,7 @@ title: About
              Addr : 7bd Gaspard Monge 91120 Palaiseau, France<br/>
              Tel : +331.78.19.34.17<br/>
              Mail : firstname.lastname[at]edf.fr</td>
-    <tr/>
-</table>
-</p>                                          
+    <tr/></table></p>                                          
 
 ## Brief 
 
