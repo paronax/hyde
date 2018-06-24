@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+<p >
 <table>
     <tr>
         <td><img src="/public/imgs/benoit_clair.jpg" alt="Hey there !"></td>
@@ -11,7 +11,8 @@ title: About
              Tel : +331.78.19.34.17<br/>
              Mail : firstname.lastname[at]edf.fr</td>
     <tr/>
-</table>                                          
+</table>
+</p>                                          
 
 ## Brief 
 
