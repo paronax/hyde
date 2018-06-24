@@ -9,8 +9,7 @@ title: About
         <td> Risk management & Applied mathematics departement @<a href="https://www.edf.fr">EDF</a> <a href="https://goo.gl/maps/Apue8MnHjyj">Lab Paris Saclay</a><br/>
              Addr : 7bd Gaspard Monge 91120 Palaiseau, France<br/>
              Tel : +331.78.19.34.17<br/>
-             Mail : firstname.lastname[at]edf.fr</td>
-    <tr/></table></p>                                          
+             Mail : firstname.lastname[at]edf.fr</td></tr></table></p>                                          
 
 ## Brief 
 
