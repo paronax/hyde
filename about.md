@@ -15,7 +15,7 @@ title: About
 
 Since mid 2017 I'm a portoflio management researcher @EDF Lab (Osiris Department). Prior to that I lead several IT projects for the sake of EDF optimisation & trading division. 
 
-More detailled informations may be found in my resume [FR](/public/files/cv_bclair.pdf) / [EN](/public/files/cv_bclair_en.pdf) (last updated June 18).
+More detailled informations may be found in my resume [FR]({{ site.baseurl }}/public/files/cv_bclair.pdf) / [EN]({{ site.baseurl }}/public/files/cv_bclair_en.pdf) (last updated June 18).
 
 
 The things I write here are my own views and does not engage my employer. 
