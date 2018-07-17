@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Benoit Clair
 tagline:          'Personal page'
 description:      'Portfolio management & computer scientist @<a href="http://edf.com" target="_blank">EDF Lab</a>.'
-url:              http://bclair.eu
-baseurl:          /
+url:              https://bclair.eu
+baseurl:          https://bclair.eu/
 
 author:
   name:           'Benoit Clair'
