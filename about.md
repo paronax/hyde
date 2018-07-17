@@ -30,5 +30,5 @@ I'm currently focusing on 3 topics :
 
 
 ## Former students 
-* Adrien Leveque; M2 internship (2018), *Dataviz' for a scientific simulation software*
+* [Adrien Leveque](https://www.linkedin.com/in/adrien-leveque/); M2 internship (2018), *Dataviz' for a scientific simulation software*
 * [David Nguyen](https://www.linkedin.com/in/ecldavidnguyen/); M1 internship (2016), *Industrialization of a development worflow*
