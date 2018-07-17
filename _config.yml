@@ -11,7 +11,7 @@ title:            Benoit Clair
 tagline:          'Personal page'
 description:      'Portfolio management & computer scientist @<a href="http://edf.com" target="_blank">EDF Lab</a>.'
 url:              https://bclair.eu
-baseurl:          https://bclair.eu/
+baseurl:          /
 
 author:
   name:           'Benoit Clair'
